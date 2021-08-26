@@ -1,6 +1,6 @@
-# i
+# Power
 ## Description
-
+![GNU GPLv3](https://img.shields.io/badge/badge-GNU%20GPLv3-red)
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 
 * [Usage](#usage)
 
-
+* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -20,26 +20,28 @@
 
 To install necessary dependencies, run the following command:
 
-i
+r
 
 ## Usage
 
 To use this application, run the following command:
 
-i
+e
 
+## License
 
+This project is licensed under the GNU GPLv3 license.
 
 ## Contributing
 
-i
+r
 
 ## Tests
 
 To run tests, run the following command:
 
-i
+e
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at iiii. You can find more of my work at [Github](https://github.com/ii).
+If you have any questions about the repo, open an issue or contact me directly at malikrharris@gmail.com. You can find more of my work at [Github](https://github.com/sirmaaalik).
